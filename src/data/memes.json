@@ -1,0 +1,216 @@
+{
+  "memes": [
+    {
+      "id": "001",
+      "title": "Disaster Girl",
+      "description": "A girl smiling while sitting in front of a burning house. Absolute chaos, complete confidence.",
+      "image": "https://i.imgflip.com/23ls.jpg",
+      "tags": ["Classic", "Chaos", "Fire"],
+      "likes": 89000,
+      "views": 234000,
+      "createdAt": "2026-01-15"
+    },
+    {
+      "id": "002",
+      "title": "Distracted Boyfriend",
+      "description": "A guy looking at another girl while his girlfriend is not amused. We all know this guy.",
+      "image": "https://i.imgflip.com/1ur9b0.jpg",
+      "tags": ["Classic", "Relationship", "Betrayal"],
+      "likes": 125000,
+      "views": 456000,
+      "createdAt": "2026-01-14"
+    },
+    {
+      "id": "003",
+      "title": "Two Buttons",
+      "description": "When you have two equally good options and your brain just says NOPE.",
+      "image": "https://i.imgflip.com/1g8my4.jpg",
+      "tags": ["Classic", "Struggle", "Decision"],
+      "likes": 78000,
+      "views": 198000,
+      "createdAt": "2026-01-13"
+    },
+    {
+      "id": "004",
+      "title": "Buff Doge vs Cheems",
+      "description": "Chad energy meets the boy who can only bork. The ultimate battle of strength.",
+      "image": "https://i.imgflip.com/43a45p.png",
+      "tags": ["Doge", "Classic", "Battle"],
+      "likes": 156000,
+      "views": 567000,
+      "createdAt": "2026-01-12"
+    },
+    {
+      "id": "005",
+      "title": "Woman Yelling at Cat",
+      "description": "Woman screaming at a confused cat on a kitchen table. Nobody knows why.",
+      "image": "https://i.imgflip.com/26am.jpg",
+      "tags": ["Classic", "Cat", "Confusion"],
+      "likes": 198000,
+      "views": 789000,
+      "createdAt": "2026-01-11"
+    },
+    {
+      "id": "006",
+      "title": "Change My Mind",
+      "description": "Steven Business sit down meme. Controversial opinions welcome.",
+      "image": "https://i.imgflip.com/24y43o.jpg",
+      "tags": ["Classic", "Opinion", "Debate"],
+      "likes": 112000,
+      "views": 345000,
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": "007",
+      "title": "Expanding Brain",
+      "description": "From smart to smartest. Brain going from dim to galaxy-sized intelligence.",
+      "image": "https://i.imgflip.com/1jwhww.jpg",
+      "tags": ["Classic", "Brain", "Intelligence"],
+      "likes": 67000,
+      "views": 178000,
+      "createdAt": "2026-01-09"
+    },
+    {
+      "id": "008",
+      "title": "Left Exit 12 Off Ramp",
+      "description": "Unexpected left turn. The original plot twist meme.",
+      "image": "https://i.imgflip.com/22bdq6.jpg",
+      "tags": ["Classic", "Plot Twist", "Road"],
+      "likes": 54000,
+      "views": 123000,
+      "createdAt": "2026-01-08"
+    },
+    {
+      "id": "009",
+      "title": "Uno Draw 25",
+      "description": "When your friend pulls the ultimate UNO card against you. Betrayal level 100.",
+      "image": "https://i.imgflip.com/1otk96.jpg",
+      "tags": ["Classic", "Uno", "Betrayal"],
+      "likes": 89000,
+      "views": 234000,
+      "createdAt": "2026-01-07"
+    },
+    {
+      "id": "010",
+      "title": "This Is Fine",
+      "description": "Everything is burning but everything is fine. Classic denial.",
+      "image": "https://i.imgflip.com/9ehk.jpg",
+      "tags": ["Classic", "Denial", "Fire"],
+      "likes": 145000,
+      "views": 456000,
+      "createdAt": "2026-01-06"
+    },
+    {
+      "id": "011",
+      "title": "Harold Hide The Pain",
+      "description": "The face of suppressed pain behind a normal smile. It hurts even to smile.",
+      "image": "https://i.imgflip.com/gk5el.jpg",
+      "tags": ["Classic", "Pain", "Expression"],
+      "likes": 78000,
+      "views": 198000,
+      "createdAt": "2026-01-05"
+    },
+    {
+      "id": "012",
+      "title": "Surprised Pikachu",
+      "description": "When the obvious happens and you're somehow shocked. Classic react.",
+      "image": "https://i.imgflip.com/30b1gx.jpg",
+      "tags": ["Classic", "Reaction", "Pikachu"],
+      "likes": 234000,
+      "views": 890000,
+      "createdAt": "2026-01-04"
+    },
+    {
+      "id": "013",
+      "title": "Bernie Sanders Inauguration",
+      "description": "Bernie sitting cold at the inauguration. Relatable energy.",
+      "image": "https://i.imgflip.com/3lmzy9.jpg",
+      "tags": ["Classic", "Politics", "Winter"],
+      "likes": 167000,
+      "views": 567000,
+      "createdAt": "2026-01-03"
+    },
+    {
+      "id": "014",
+      "title": "Panik Kalm Panik",
+      "description": "Panic, calm, then panic again. The lifecycle of every crisis.",
+      "image": "https://i.imgflip.com/261o3j.jpg",
+      "tags": ["Classic", "Emotion", "Cycle"],
+      "likes": 56000,
+      "views": 134000,
+      "createdAt": "2026-01-02"
+    },
+    {
+      "id": "015",
+      "title": "Sad Pablo",
+      "description": "When you realize it's Monday tomorrow. The saddest frog.",
+      "image": "https://i.imgflip.com/1h7in3.jpg",
+      "tags": ["Sad", "Classic", "Monday"],
+      "likes": 92000,
+      "views": 267000,
+      "createdAt": "2026-01-01"
+    },
+    {
+      "id": "016",
+      "title": "Hide the Pain Harold",
+      "description": "Stock photo model who looks like he's hiding tremendous pain.",
+      "image": "https://i.imgflip.com/gk5el.jpg",
+      "tags": ["Classic", "Pain", "Stock"],
+      "likes": 189000,
+      "views": 678000,
+      "createdAt": "2025-12-30"
+    },
+    {
+      "id": "017",
+      "title": "Success Kid",
+      "description": "Baby with clenched fist. The OG success meme.",
+      "image": "https://i.imgflip.com/30axps.jpg",
+      "tags": ["Classic", "Baby", "Success"],
+      "likes": 76000,
+      "views": 198000,
+      "createdAt": "2025-12-29"
+    },
+    {
+      "id": "018",
+      "title": "Grumpy Cat",
+      "description": "The cat that looks permanently annoyed with your nonsense.",
+      "image": "https://i.imgflip.com/9ehk.jpg",
+      "tags": ["Cat", "Classic", "Attitude"],
+      "likes": 234000,
+      "views": 890000,
+      "createdAt": "2025-12-28"
+    },
+    {
+      "id": "019",
+      "title": "Doge",
+      "description": "Such meme. Very wow. The original doge coin inspiration.",
+      "image": "https://i.imgflip.com/4t0m5.jpg",
+      "tags": ["Doge", "Classic", "Wow"],
+      "likes": 312000,
+      "views": 1230000,
+      "createdAt": "2025-12-27"
+    },
+    {
+      "id": "020",
+      "title": "Pepe the Frog",
+      "description": "The frog from comic series that became an unexpected icon.",
+      "image": "https://i.imgflip.com/1h7in3.jpg",
+      "tags": ["Classic", "Frog", "Green"],
+      "likes": 278000,
+      "views": 967000,
+      "createdAt": "2025-12-26"
+    }
+  ],
+  "tags": [
+    {"name": "Classic", "count": 20},
+    {"name": "Cat", "count": 2},
+    {"name": "Doge", "count": 2},
+    {"name": "Betrayal", "count": 2},
+    {"name": "Fire", "count": 2},
+    {"name": "Pain", "count": 2},
+    {"name": "Chaos", "count": 1},
+    {"name": "Relationship", "count": 1},
+    {"name": "Struggle", "count": 1}
+  ],
+  "hotSearches": ["Buff Doge", "Woman Yelling at Cat", "Surprised Pikachu", "Disaster Girl", "This Is Fine"]
+}
